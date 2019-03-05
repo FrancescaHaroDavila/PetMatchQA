@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2772e752-9e5f-4409-ad32-8a3d922fc6a9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Class1_Selenium" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/page/NewUserPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="20" column="77" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/steps/iOSNewUserSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/resources/features/registerNewUser.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/resources/features/iOSNewUser.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="65" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/steps/registerNewUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ClickOnLocator</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>getTextOfField</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/features/registerNewUser.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/features/helloworld.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/steps/helloWorldSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/page/calculatorPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/features/sumNumbers.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/features/StepDef.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/features/MyStepdefs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/features/loginOnPettinder.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/page/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/page/SignUpPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/page/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/steps/loginStep.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/steps/calculatorSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/framework/ParentPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/page/CalculatorPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MyStepdefs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/steps/registerNewUser.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/testng/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/iOSAddNewPetSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/page/PetmatchLoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/iOSNewUserSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/steps/iOSPetMatchLoginSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/page/NewUserPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/iOSEditPetSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/steps/iOSAddNewPetSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/iOSDeletePetSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/features/iOSLoginOnPetMatch.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/features/iOSDelete.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/steps/iOSDeletePetSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/iOSLoginWithGoogleSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/page/LoginWithGoogle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/features/iOSAddNewPet.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/page/AddNewPetPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/features/iOSEditPet.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/steps/iOSEditPetSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/framework/ParentScenario.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/page/EditPetPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/page/DeletePet.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/steps/iOSLoginWithGoogleSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/features/iOSLoginWithGoogle.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/page/LoginWithGooglePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/framework/DSL.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/features/RegisterUser.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/steps/registerUserSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/features/iOSNewUser.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/steps/iOSNewUserSteps.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Class1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Class1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Class1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="284" />
+    <option name="y" value="23" />
+    <option name="width" value="1442" />
+    <option name="height" value="938" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Class1_Selenium" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Class1" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="Class1_Selenium" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Class1" type="616d4139:PackageViewModuleNode" />
+              <item name="com.selenium" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Class1_Selenium" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Class1" type="616d4139:PackageViewModuleNode" />
+              <item name="com.selenium" type="1f31426a:PackageElementNode" />
+              <item name="steps" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Class1_Selenium" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Class1" type="616d4139:PackageViewModuleNode" />
+              <item name="resources" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Class1_Selenium" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Class1" type="616d4139:PackageViewModuleNode" />
+              <item name="resources" type="1f31426a:PackageElementNode" />
+              <item name="features" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551796671481" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/selenium/steps" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.selenium.steps" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/resources/features" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: Sign In into PetMatch with iOS">
+    <configuration name="Scenario: Enter to some url direction (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/features/registerNewUser.feature" />
+      <option name="GLUE" value="com.selenium.steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Class1_Selenium" />
+      <option name="NAME_FILTER" value="^Enter to some url direction$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Enter to some url direction$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Enter to some url direction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Enter to the calculator and sum two numbers (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/features/sumNumbers.feature" />
+      <option name="GLUE" value="com.selenium.steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Class1" />
+      <option name="NAME_FILTER" value="^Enter to the calculator and sum two numbers$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Enter to the calculator and sum two numbers$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Enter to the calculator and sum two numbers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Enter to the calculator and sum two numbers" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/features/sumNumbers.feature" />
+      <option name="GLUE" value="com.selenium.steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Class1_Selenium" />
+      <option name="NAME_FILTER" value="^Enter to the calculator and sum two numbers$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Enter to the calculator and sum two numbers$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Enter to the calculator and sum two numbers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Sign In into PetMatch with iOS" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/features/iOSLoginOnPetMatch.feature" />
+      <option name="GLUE" value="com.selenium.steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Class1" />
+      <option name="NAME_FILTER" value="^Sign In into PetMatch with iOS$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Sign In into PetMatch with iOS$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Sign In into PetMatch with iOS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Sign In into PetMatch" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/features/loginOnPettinder.feature" />
+      <option name="GLUE" value="com.selenium.steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Class1" />
+      <option name="NAME_FILTER" value="^Sign In into PetMatch$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Sign In into PetMatch$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Sign In into PetMatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Scenario: Enter to some url direction (1)" />
+      <item itemvalue="Cucumber java.Scenario: Enter to the calculator and sum two numbers" />
+      <item itemvalue="Cucumber java.Scenario: Enter to the calculator and sum two numbers (1)" />
+      <item itemvalue="Cucumber java.Scenario: Sign In into PetMatch" />
+      <item itemvalue="Cucumber java.Scenario: Sign In into PetMatch with iOS" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: Sign In into PetMatch with iOS" />
+        <item itemvalue="Cucumber java.Scenario: Sign In into PetMatch" />
+        <item itemvalue="Cucumber java.Scenario: Enter to the calculator and sum two numbers (1)" />
+        <item itemvalue="Cucumber java.Scenario: Enter to the calculator and sum two numbers" />
+        <item itemvalue="Cucumber java.Scenario: Enter to some url direction (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2772e752-9e5f-4409-ad32-8a3d922fc6a9" name="Default Changelist" comment="" />
+      <created>1550583187857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550583187857</updated>
+      <workItem from="1550755194533" duration="8036000" />
+      <workItem from="1550764711921" duration="98000" />
+      <workItem from="1550764856608" duration="15000" />
+      <workItem from="1550764885262" duration="14000" />
+      <workItem from="1550847991867" duration="801000" />
+      <workItem from="1550850572945" duration="14000" />
+      <workItem from="1551186334785" duration="6922000" />
+      <workItem from="1551195091836" duration="9000" />
+      <workItem from="1551195126824" duration="4315000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Scenario__Sign_In_into_PetMatch - 2019.02.21 at 10h 34m 53s.xml">
+      <configuration name="Scenario: Sign In into PetMatch" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Sign_In_into_PetMatch - 2019.02.21 at 10h 36m 56s.xml">
+      <configuration name="Scenario: Sign In into PetMatch" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Sign_In_into_PetMatch - 2019.02.21 at 10h 38m 05s.xml">
+      <configuration name="Scenario: Sign In into PetMatch" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Sign_In_into_PetMatch_with_iOS - 2019.02.26 at 09h 08m 33s.xml">
+      <configuration name="Scenario: Sign In into PetMatch with iOS" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Sign_In_into_PetMatch_with_iOS - 2019.02.26 at 09h 09m 37s.xml">
+      <configuration name="Scenario: Sign In into PetMatch with iOS" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Sign_In_into_PetMatch_with_iOS - 2019.02.26 at 09h 10m 18s.xml">
+      <configuration name="Scenario: Sign In into PetMatch with iOS" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Sign_In_into_PetMatch_with_iOS - 2019.02.26 at 09h 11m 39s.xml">
+      <configuration name="Scenario: Sign In into PetMatch with iOS" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Sign_In_into_PetMatch_with_iOS - 2019.02.26 at 09h 12m 38s.xml">
+      <configuration name="Scenario: Sign In into PetMatch with iOS" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Sign_In_into_PetMatch_with_iOS - 2019.02.26 at 09h 13m 17s.xml">
+      <configuration name="Scenario: Sign In into PetMatch with iOS" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Sign_In_into_PetMatch_with_iOS - 2019.02.27 at 10h 37m 23s.xml">
+      <configuration name="Scenario: Sign In into PetMatch with iOS" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20224000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="670" y="23" width="990" height="938" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.85625" visible="true" weight="0.35126582" />
+      <window_info id="Structure" order="1" sideWeight="0.14375" side_tool="true" visible="true" weight="0.35126582" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.2936803" side_tool="true" weight="0.2657841" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5073613" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4861111" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4995656" visible="true" weight="0.24349882" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5004344" side_tool="true" weight="0.32935917" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3287037" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32869378" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.32969558" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.48.2/selenium-api-2.48.2-sources.jar!/org/openqa/selenium/remote/DesiredCapabilities.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/features/StepDef.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/features/MyStepdefs.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/MyStepdefs.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/steps/iOSLoginStep.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.2/cucumber-core-1.2.2.jar!/cucumber/runtime/Utils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1407">
+          <caret line="105" column="20" selection-start-line="105" selection-start-column="20" selection-end-line="105" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/steps/calculatorSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/cucumber-html-reports/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/testng/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.48.2/selenium-api-2.48.2.jar!/org/openqa/selenium/By.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/features/sumNumbers.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.48.2/selenium-api-2.48.2.jar!/org/openqa/selenium/WebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/features/helloworld.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.2/cucumber-core-1.2.2.jar!/cucumber/runtime/FeatureBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/page/SignUpPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/page/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/page/PetmatchLoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/page/CalculatorPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/steps/iOSNewUser.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/steps/iOSPetMatchLoginSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/steps/loginStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="33" column="67" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/page/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/steps/helloWorldSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/features/iOSLoginWithGoogle" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/features/loginOnPettinder.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/features/iOSAddNewPet.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/page/AddNewPetPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/features/iOSDelete.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/features/iOSLoginOnPetMatch.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/steps/iOSAddNewPetSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/features/iOSEditPet.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/steps/iOSDeletePetSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/framework/ParentScenario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="96" column="62" selection-start-line="96" selection-start-column="62" selection-end-line="96" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4150#4151#0" expanded="true" />
+            <element signature="e#4192#4193#0" expanded="true" />
+            <element signature="e#4230#4231#0" expanded="true" />
+            <element signature="e#4260#4261#0" expanded="true" />
+            <element signature="e#4301#4302#0" expanded="true" />
+            <element signature="e#4330#4331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/framework/ParentPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/page/EditPetPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/page/DeletePet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/steps/iOSEditPetSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/steps/iOSLoginWithGoogleSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/features/iOSLoginWithGoogle.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/page/LoginWithGooglePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/framework/DSL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="31" column="67" lean-forward="true" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/page/NewUserPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="77" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/features/registerNewUser.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/features/iOSNewUser.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="65" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/steps/registerNewUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/steps/iOSNewUserSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Class1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24125" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib-nodep:2.1_3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

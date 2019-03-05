@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="55.825151">
+<testcase classname="Scenario of new user" name="Register a new user" time="55.825151">
+<system-out><![CDATA[Given I open the app........................................................passed
+When Click Register Now button..............................................passed
+And Type the user name "Carlo"..............................................passed
+And Type the email "carlo@hotmail.com"......................................passed
+And Type the password "123456"..............................................passed
+And Re-Type the password "123456"...........................................passed
+Then Click Register button..................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

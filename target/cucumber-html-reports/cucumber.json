@@ -1,0 +1,162 @@
+[
+  {
+    "line": 4,
+    "elements": [
+      {
+        "line": 18,
+        "name": "Register a new user",
+        "description": "",
+        "id": "scenario-of-new-user;register-a-new-user;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 19250730033,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I open the app",
+            "match": {
+              "location": "registerUserSteps.iOpenTheApp()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 858520757,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Click Register Now button",
+            "match": {
+              "location": "registerUserSteps.clickRegisterNowButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5596310389,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Type the user name \"Carlo\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Carlo",
+                  "offset": 20
+                }
+              ],
+              "location": "registerUserSteps.typeTheUserName(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9574088585,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Type the email \"carlo@hotmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "carlo@hotmail.com",
+                  "offset": 16
+                }
+              ],
+              "location": "registerUserSteps.typeTheEmail(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10103733382,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Type the password \"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "123456",
+                  "offset": 19
+                }
+              ],
+              "location": "registerUserSteps.typeThePassword(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8923703219,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Re-Type the password \"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "123456",
+                  "offset": 22
+                }
+              ],
+              "location": "registerUserSteps.reTypeThePassword(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1518064371,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Click Register button",
+            "match": {
+              "location": "registerUserSteps.clickRegisterButton()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@pettinder"
+          },
+          {
+            "line": 2,
+            "name": "@registerUser"
+          }
+        ]
+      }
+    ],
+    "name": "Scenario of new user",
+    "description": "",
+    "id": "scenario-of-new-user",
+    "keyword": "Feature",
+    "uri": "RegisterUser.feature",
+    "tags": [
+      {
+        "line": 2,
+        "name": "@pettinder"
+      },
+      {
+        "line": 2,
+        "name": "@registerUser"
+      }
+    ]
+  }
+]
